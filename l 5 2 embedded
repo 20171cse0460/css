@@ -1,0 +1,12 @@
+<html>
+<head>
+   <style type="text\css" media="all">
+   h1{color:green;font-size:45pt}
+   p{color:red;font-size:40pt}
+</style>
+</head>
+<body>
+ <h1 >This is heading</h1>
+ <p >This is paragraph</p>
+</body>
+</html>
