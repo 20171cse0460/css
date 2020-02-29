@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+h1, h2, p {
+  background-color:blue;
+  text-align: center;
+  color: #00ff40;
+}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+<h2>Smaller heading!</h2>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+

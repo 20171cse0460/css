@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+div p{
+ background-color:black;
+
+}
+</style>
+</head>
+<body>
+
+<div>
+<p text style="color:yellow";>Paragraph 1 in the div</p>
+<p text style="color:yellow";>Paragraph 2 in the div</p>
+<h1><p text style="color:yellow";>Paragraph 3 in the div</p></h1>
+</div>
+<p>Paragraph 4  not in the div</p>
+<p>Paragraph 5  not in the div</p>
+
+</body>

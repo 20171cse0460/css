@@ -1,0 +1,14 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style1.">
+<style>
+h1{ color: green;font-size:45pt}
+</style>
+</head>
+<body>
+<h1 style="color:red;font-size:40pt">Welcome to CSS</h1>
+<p style="color:blue;font-size:15pt">Hello World!</p>
+<p>This paragraph is styled with CSS</p>
+<p>CSS comments are not shown</p>
+</body>
+</html>

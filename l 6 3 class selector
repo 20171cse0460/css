@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+p.center{
+ text-align:center;
+ color:#00e6e6;
+}
+p.large{
+ font-size:300%;
+}
+</head>
+</style>
+<body>
+
+<h1 class="center">Normal</h1>
+<p class="center">Center Normal</p> 
+<p class="center large">Big Center Normal</p> 
+
+</body>
+</html>
+

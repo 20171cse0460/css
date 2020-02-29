@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+div>p{
+ color:yellow;
+ background-color:black;
+ padding:2px;
+}
+</style>
+</head>
+<body style="text-align:center;">
+<div>
+<h2 style="color:#00ff40">
+ CSS Child Selector
+</h2>
+<p>
+A computer science portal
+</p>
+</div>
+<p style="background_color:yellow;">
+<p text style="color:#00e6e6";>Welcome to the lab !!!!!</p>
+<p  text style="color:#00e6e6";>This is IT Lab</p>
+</body>
+</html>

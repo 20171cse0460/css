@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+#para1{
+ background-color:black;
+ text-align:center;
+ color:yellow;
+}
+</head>
+</style>
+<body>
+<p id="para1">Hello World!!!</p>
+<p text style="color:#00e6e6";>This paragraph is not affected by the style</p>
+</body>
+</html>
