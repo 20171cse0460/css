@@ -1,0 +1,13 @@
+<html>
+<head>Image Property</head>
+<style>
+p.border{
+border : 100px solid ;
+padding:10px;
+border-image:url("/home/Sem6B7/Desktop/0460/index.jpeg") ;
+opacity:0.4;
+}
+</style>
+<p class="border">border-image</p>
+</html>
+
