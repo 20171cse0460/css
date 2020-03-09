@@ -9,7 +9,7 @@ padding:1px solid blue;
 background-color:yellow;
 }
 span.b{
-display:block;
+display:inline-block;
 width:100px;
 height:100px;
 padding:1px solid blue;
@@ -24,8 +24,12 @@ background-color:yellow;
 }
 </style>
 <body>
+<br/>
 <span class="a">A display border.</p>
+<br/>
 <span class="b">A display border.</p>
+<br/>
 <span class="c">A display border.</p>
+<br/>
 </body>
 </html>
