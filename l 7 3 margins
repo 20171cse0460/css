@@ -1,0 +1,35 @@
+<html>
+<head>Margin Property</head>
+<style>
+p.one{
+margin:auto;
+padding:25px 50px 75px 100px;
+height:100px;
+width:100px;
+border:1px solid red;
+background-color:blue;
+}
+p.two{
+margin:auto;
+padding:25px 50px 75px 100px;
+height:100px;
+width:100px;
+border:1px solid red;
+background-color:blue;
+}
+p.three{
+margin:25px 30px 75px 100px;
+padding:25px 50px 75px 100px;
+height:100px;
+width:100px;
+border:1px solid blue;
+background-color:red;
+}
+</style>
+</head>
+<body>
+<p class="one">A margins border.</p>
+<p class="two">A margins border.</p>
+<p class="three">A margins border.</p>
+</body>
+</html>
