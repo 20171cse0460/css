@@ -1,0 +1,16 @@
+<html>
+<head>
+<style>
+p::first-line{
+color:red;
+font-variant:small-caps;
+}
+</style>
+</head>
+<body>
+<p>you can use the ::first-line pseudo-element.</br>
+there are t5 in total.</br>
+Thank you.</br>
+</p>
+</body>
+</html>
