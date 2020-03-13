@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+h1::before{
+content:url(/home/Sem6B7/Desktop/0460/smiling.png)
+}
+h1::after{
+content:url(/home/Sem6B7/Desktop/0460/smiling.png)
+}
+</style>
+<body>
+<h1 align=center>This is a heading</h1>
+<p align=center>This is ::after pseudo code part</p>
+<h1 align=center>This is a heading</h1>
+<p align=center>This is ::after pseudo code part</p>
+</body>
+</html>
